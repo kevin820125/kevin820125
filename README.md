@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m Kevin.
+- 👀 I’m specialized in blockchain, Shopify, and web development.
+- 🌱 I’m currently learning Open AI technology.
+- 💞️ I’m looking to collaborate with agile teams.
+- 📫 How to reach me: telegram @kevin93k | discord @0xkevin93
+
+## 🔥 My github status
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kevin820125&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+<p><img src="https://github-readme-stats-ten-delta-99.vercel.app/api?username=kevin820125&show_icons=true&theme=radical&hide_border=true" alt="kevin820125" /></p>
+
+<p><img src="https://github-readme-stats-ten-delta-99.vercel.app/api/top-langs/?username=kevin820125&layout=compact&theme=radical&hide_border=true" alt="kevin820125" /></p>
