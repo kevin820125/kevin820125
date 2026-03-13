@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👀 I’m specialized in blockchain, Shopify, and web development.
 - 🌱 I’m currently learning Open AI technology.
 - 💞️ I’m looking to collaborate with agile teams.
-- 📫 How to reach me: telegram @kevin93k | discord @0xkevin93
+- 📫 How to reach me: telegram @logicpathway | discord @0xkevin93
 
 ## 🔥 My github status
 
